@@ -1,1 +1,3 @@
 medical_cost.db
+*.venv/
+*.db
